@@ -42,26 +42,26 @@ Getting Ready for Cloud Development
 
 Section: 4
 Bluemix PaaS Architecture
-15. Introduction to Cloud Foundry 14:43
-Quiz 5: Introduction to Cloud Foundry 0:00
-16. Cloud Foundry Architecture 19:02
-Quiz 6: Cloud Foundry Architecture 0:00
-17. Installation of the Cloud Foundry CLI 0:00
-18. CLI Commands Overview, Login & Target 9:10
-19. CLI Commands Domains, Spaces, Users 16:44
-20. CLI Commands - Application Management & Development 19:29
-Quiz 7: Cloud Foundry Command Line Interface (CLI) 0:00
-21. Cloud Foundry Environment Variables 15:33
-Quiz 8: Cloud foundry environment variables 0:00
-22. Developing Bluemix no-route or Background application 6:06
-Quiz 9: Worker applications 0:00
+[ ] 15. Introduction to Cloud Foundry 14:43
+[ ] Quiz 5: Introduction to Cloud Foundry 0:00
+[ ] 16. Cloud Foundry Architecture 19:02
+[ ] Quiz 6: Cloud Foundry Architecture 0:00
+[ ] 17. Installation of the Cloud Foundry CLI 0:00
+[ ] 18. CLI Commands Overview, Login & Target 9:10
+[ ] 19. CLI Commands Domains, Spaces, Users 16:44
+[ ] 20. CLI Commands - Application Management & Development 19:29
+[ ] Quiz 7: Cloud Foundry Command Line Interface (CLI) 0:00
+[ ] 21. Cloud Foundry Environment Variables 15:33
+[ ] Quiz 8: Cloud foundry environment variables 0:00
+[ ] 22. Developing Bluemix no-route or Background application 6:06
+[ ] Quiz 9: Worker applications 0:00
 
 Section: 5
 Bluemix Managed Services
-23. Bluemix Managed Services for Applications 17:24
-Quiz 10: Bluemix Managed Services 0:00
-24. User provided services and VCAP_SERVICES 13:45
-Quiz 11: VCAP_SERVICES & User provided services 0:00
+[ ] 23. Bluemix Managed Services for Applications 17:24
+[ ] Quiz 10: Bluemix Managed Services 0:00
+[ ] 24. User provided services and VCAP_SERVICES 13:45
+[ ] Quiz 11: VCAP_SERVICES & User provided services 0:00
 
 Section: 6
 [ ] 12 Factor Apps
@@ -86,148 +86,90 @@ Section: 7
 
 Section: 8
 Bluemix Managed Services - Caching & Object Storage
-35. Bluemix Data & Session Caching Services
-18:58
-Quiz 17: Caching Services
-0:00
-36. Services - Object Storage
-15:42
-Quiz 18: Object storage services
-0:00
+[ ] 35. Bluemix Data & Session Caching Services 18:58
+[ ] Quiz 17: Caching Services 0:00
+[ ] 36. Services - Object Storage 15:42
+[ ] Quiz 18: Object storage services 0:00
 
 Section: 9
 IBM Bluemix Message Hub Service
-37. Note: Message Hub
-0:00
-38. Introduction to Kafka
-8:53
-39. Message Hub - Kafka Topics and Partitions
-16:57
-Quiz 19: Message Hub Provisioning, Topics and Partitions
-0:00
-40. Message Hub - Kafka Consumer Groups
-13:23
-Quiz 20: Consumer Groups
-0:00
-41. Message Hub - Kafka Brokers and Clusters
-4:17
-42. Message Hub client security and Producers
-14:40
-43. Message Hub Consumers
-18:58
-Quiz 21: Message Hub Producers and Consumers
-0:00
-44. Bluemix MQ Light Service
-18:06
-45. MQ Light Application Walkthrough
-17:20
-Quiz 22: MQ Light Service
-0:00
+[ ] 37. Note: Message Hub 0:00
+[ ] 38. Introduction to Kafka 8:53
+[ ] 39. Message Hub - Kafka Topics and Partitions 16:57
+[ ] Quiz 19: Message Hub Provisioning, Topics and Partitions 0:00
+[ ] 40. Message Hub - Kafka Consumer Groups 13:23
+[ ] Quiz 20: Consumer Groups 0:00
+[ ] 41. Message Hub - Kafka Brokers and Clusters 4:17
+[ ] 42. Message Hub client security and Producers 14:40
+[ ] 43. Message Hub Consumers 18:58
+[ ] Quiz 21: Message Hub Producers and Consumers 0:00
+[ ] 44. Bluemix MQ Light Service 18:06
+[ ] 45. MQ Light Application Walkthrough 17:20
+[ ] Quiz 22: MQ Light Service 0:00
 
 Section: 10
 IBM Bluemix Alchemy API
-46. Cognitive Capabilities - Alchemy API
-2:51
-47. Alchemy API - Language Processing
-10:16
-48. Alchemy API - Vision
-5:27
-Quiz 23: Cognitive Services
-0:00
+[ ] 46. Cognitive Capabilities - Alchemy API 2:51
+[ ] 47. Alchemy API - Language Processing 10:16
+[ ] 48. Alchemy API - Vision 5:27
+[ ] Quiz 23: Cognitive Services 0:00
 
 Section: 11
 Bluemix Managed Security Services
-49. Security services on Bluemix
-10:08
-50. Demo SSO Service - Cloud Directory use from Bluemix Application
-12:08
- CloudRocketSSO.zip
- Demo-SSO-xml.docx
-Quiz 24: Security Services
-0:00
+[ ] 49. Security services on Bluemix 10:08
+[ ] 50. Demo SSO Service - Cloud Directory use from Bluemix Application 12:08
+[ ] Quiz 24: Security Services 0:00
 
 Section: 12
 Data Services on Bluemix
-51. Data Services Types
-10:33
-Quiz 25: Database types
-0:00
-52. Cloudant Features and DB instance creation
-8:22
-53. Cloudant Queries, Indexes & Map Redues
-14:23
-Quiz 26: Cloudant Queries, Indexes & Map reduce
-0:00
-54. Cloudant Insert, Update, Delete + Replication & Sync
-14:15
-Quiz 27: Cloudant Insert, Update, Delete & Replication, Sync
-0:00
-55. DashDB Service Features and Walkthrough
-12:55
-Quiz 28: DashDB Quiz
-0:00
+[ ] 51. Data Services Types 10:33
+[ ] Quiz 25: Database types 0:00
+[ ] 52. Cloudant Features and DB instance creation 8:22
+[ ] 53. Cloudant Queries, Indexes & Map Redues 14:23
+[ ] Quiz 26: Cloudant Queries, Indexes & Map reduce 0:00
+[ ] 54. Cloudant Insert, Update, Delete + Replication & Sync 14:15
+[ ] Quiz 27: Cloudant Insert, Update, Delete & Replication, Sync 0:00
+[ ] 55. DashDB Service Features and Walkthrough 12:55
+[ ] Quiz 28: DashDB Quiz 0:00
 
 Section: 13
 IBM Bluemix DevOps
-56. IBM DevOps Capabilities
-12:01
-Quiz 29: IBM DevOps Capabilities
-0:00
-57. Devops Web IDE
-12:47
-Quiz 30: IBM DevOps - Web IDE
-0:00
-58. Devops Agile Planning & Tracking
-19:57
-Quiz 31: IBM DevOps - Tracking & Planning
-0:00
-59. Devops Build and Deploy pipeline
-18:23
-Quiz 32: IBM DevOps - Build & Deploy
-0:00
+[ ] 56. IBM DevOps Capabilities 12:01
+[ ] Quiz 29: IBM DevOps Capabilities 0:00
+[ ] 57. Devops Web IDE 12:47
+[ ] Quiz 30: IBM DevOps - Web IDE 0:00
+[ ] 58. Devops Agile Planning & Tracking 19:57
+[ ] Quiz 31: IBM DevOps - Tracking & Planning 0:00
+[ ] 59. Devops Build and Deploy pipeline 18:23
+[ ] Quiz 32: IBM DevOps - Build & Deploy 0:00
 
 Section: 14
 Docker and IBM Cloud containers
-60. Introduction to Docker
-12:48
-Quiz 33: Containers
-0:00
-61. IBM Containers
-7:30
-Quiz 34: IBM Containers
-0:00
-62. Local Image & Container creation (Walk through Part#1)
-13:11
-Quiz 35: Docker tools and Local image creation
-0:00
-63. Container creation on IBM Bluemix (Walk through Part#2)
-8:47
-Quiz 36: Running containers on Bluemix
-0:00
+[ ] 60. Introduction to Docker 12:48
+[ ] Quiz 33: Containers 0:00
+[ ] 61. IBM Containers 7:30
+[ ] Quiz 34: IBM Containers 0:00
+[ ] 62. Local Image & Container creation (Walk through Part#1) 13:11
+[ ] Quiz 35: Docker tools and Local image creation 0:00
+[ ] 63. Container creation on IBM Bluemix (Walk through Part#2) 8:47
+[ ] Quiz 36: Running containers on Bluemix 0:00
 
 Section: 15
 IBM Bluemix Virtual Machines
-64. Bluemix Virtual Machines, Images and Security groups
-18:14
-65. Virtual Machine creation on Bluemix (walk through)
-9:25
-Quiz 37: Bluemix Virtual Machines
-0:00
+[ ] 64. Bluemix Virtual Machines, Images and Security groups 18:14
+[ ] 65. Virtual Machine creation on Bluemix (walk through) 9:25
+[ ] Quiz 37: Bluemix Virtual Machines 0:00
 
 Section: 16
 IBM Cloud Professional Certification Exam Prep Tests
-Quiz 38: Certification Prep Test - 1
-0:00
-Quiz 39: Certification Prep Test - 2
-0:00
-Quiz 40: Certification Prep Test - 3
-0:00
-Quiz 41: Certification Prep Test - 4
-0:00
+[ ] Quiz 38: Certification Prep Test - 1 0:00
+[ ] Quiz 39: Certification Prep Test - 2 0:00
+[ ] Quiz 40: Certification Prep Test - 3 0:00
+[ ] Quiz 41: Certification Prep Test - 4 0:00
 
 Section: 17
 Best of Luck
-66. Best of luck & Goodbye 1:27
+[ ] 66. Best of luck & Goodbye 1:27
 ```
 
 
