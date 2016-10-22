@@ -15,15 +15,15 @@ Write a live cloud application on Bluemix in 3 hours & get professional IBM clou
 ```
 Section: 1
 Introduction to the course
-[ ] 1. Introduction to the course 4:23
-[ ] 2. IBM Cloud Professional Certifications Overview 4:22
-[ ] 3. What you will need to complete this course 1:05
-[ ] 4. Please Read - Bluemix Portal look and feel 0:00
+[x] 1. Introduction to the course 4:23
+[x] 2. IBM Cloud Professional Certifications Overview 4:22
+[x] 3. What you will need to complete this course 1:05
+[x] 4. Please Read - Bluemix Portal look and feel 0:00
 
 Section: 2
 Introduction to IBM Cloud
-[ ] 5. Bluemix cloud offerings 10:23
-[ ] Quiz 1: Bluemix cloud offerings 0:00
+[x] 5. Bluemix cloud offerings 10:23
+[x] Quiz 1: Bluemix cloud offerings 0:00
 [ ] 6. Bluemix capabilities & deployment options 19:21
 [ ] Quiz 2: Bluemix capabilities & deployment options 0:00
 [ ] 7. Setting up account on IBM Bluemix account 4:35
