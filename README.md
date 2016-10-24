@@ -24,8 +24,8 @@ Section: 2
 Introduction to IBM Cloud
 [x] 5. Bluemix cloud offerings 10:23
 [x] Quiz 1: Bluemix cloud offerings 0:00
-[ ] 6. Bluemix capabilities & deployment options 19:21
-[ ] Quiz 2: Bluemix capabilities & deployment options 0:00
+[x] 6. Bluemix capabilities & deployment options 19:21
+[x] Quiz 2: Bluemix capabilities & deployment options 0:00
 [ ] 7. Setting up account on IBM Bluemix account 4:35
 [ ] 8. Demo - Bluemix Trial setup and quick Portal walk through 5:39
 [ ] 9. Spaces, Domains, Users & Quota 11:59
