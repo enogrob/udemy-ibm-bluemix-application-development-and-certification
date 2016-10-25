@@ -35,10 +35,10 @@ Introduction to IBM Cloud
 
 Section: 3
 Getting Ready for Cloud Development
-[ ] 12. Installing Eclipse IDE and Bluemix tools 0:00
-[ ] 13. Introduction Starters, Runtimes & Boilerplates 7:53
-[ ] Quiz 4: Starters, Boilerplate & Runtime 0:00
-[ ] 14. Using Runtime to create first application on Bluemix 14:05
+[x] 12. Installing Eclipse IDE and Bluemix tools 0:00
+[x] 13. Introduction Starters, Runtimes & Boilerplates 7:53
+[x] Quiz 4: Starters, Boilerplate & Runtime 0:00
+[x] 14. Using Runtime to create first application on Bluemix 14:05
 
 Section: 4
 Bluemix PaaS Architecture
