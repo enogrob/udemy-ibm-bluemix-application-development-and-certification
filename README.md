@@ -26,12 +26,12 @@ Introduction to IBM Cloud
 [x] Quiz 1: Bluemix cloud offerings 0:00
 [x] 6. Bluemix capabilities & deployment options 19:21
 [x] Quiz 2: Bluemix capabilities & deployment options 0:00
-[ ] 7. Setting up account on IBM Bluemix account 4:35
-[ ] 8. Demo - Bluemix Trial setup and quick Portal walk through 5:39
-[ ] 9. Spaces, Domains, Users & Quota 11:59
-[ ] 10. Manage Account - Exercise 0:00
-[ ] 11. Manage Account - Exercise Solution 4:12
-[ ] Quiz 3: Organization, Spaces, Domains, Users, Quotas 0:00
+[x] 7. Setting up account on IBM Bluemix account 4:35
+[x] 8. Demo - Bluemix Trial setup and quick Portal walk through 5:39
+[x] 9. Spaces, Domains, Users & Quota 11:59
+[x] 10. Manage Account - Exercise 0:00
+[x] 11. Manage Account - Exercise Solution 4:12
+[x] Quiz 3: Organization, Spaces, Domains, Users, Quotas 0:00
 
 Section: 3
 Getting Ready for Cloud Development
@@ -109,10 +109,10 @@ IBM Bluemix Message Hub Service
 
 Section: 10
 IBM Bluemix Alchemy API
-[ ] 46. Cognitive Capabilities - Alchemy API 2:51
-[ ] 47. Alchemy API - Language Processing 10:16
-[ ] 48. Alchemy API - Vision 5:27
-[ ] Quiz 23: Cognitive Services 0:00
+[x] 46. Cognitive Capabilities - Alchemy API 2:51
+[x] 47. Alchemy API - Language Processing 10:16
+[x] 48. Alchemy API - Vision 5:27
+[x] Quiz 23: Cognitive Services 0:00
 
 Section: 11
 Bluemix Managed Security Services
