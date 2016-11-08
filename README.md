@@ -42,8 +42,8 @@ Getting Ready for Cloud Development
 
 Section: 4
 Bluemix PaaS Architecture
-[ ] 15. Introduction to Cloud Foundry 14:43
-[ ] Quiz 5: Introduction to Cloud Foundry 0:00
+[x] 15. Introduction to Cloud Foundry 14:43
+[x] Quiz 5: Introduction to Cloud Foundry 0:00
 [ ] 16. Cloud Foundry Architecture 19:02
 [ ] Quiz 6: Cloud Foundry Architecture 0:00
 [ ] 17. Installation of the Cloud Foundry CLI 0:00
