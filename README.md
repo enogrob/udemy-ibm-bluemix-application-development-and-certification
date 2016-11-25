@@ -46,9 +46,9 @@ Bluemix PaaS Architecture
 [x] Quiz 5: Introduction to Cloud Foundry 0:00
 [x] 16. Cloud Foundry Architecture 19:02
 [x] Quiz 6: Cloud Foundry Architecture 0:00
-[ ] 17. Installation of the Cloud Foundry CLI 0:00
-[ ] 18. CLI Commands Overview, Login & Target 9:10
-[ ] 19. CLI Commands Domains, Spaces, Users 16:44
+[x] 17. Installation of the Cloud Foundry CLI 0:00
+[x] 18. CLI Commands Overview, Login & Target 9:10
+[x] 19. CLI Commands Domains, Spaces, Users 16:44
 [ ] 20. CLI Commands - Application Management & Development 19:29
 [ ] Quiz 7: Cloud Foundry Command Line Interface (CLI) 0:00
 [ ] 21. Cloud Foundry Environment Variables 15:33
