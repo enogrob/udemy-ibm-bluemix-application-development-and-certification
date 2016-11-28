@@ -53,8 +53,8 @@ Bluemix PaaS Architecture
 [x] Quiz 7: Cloud Foundry Command Line Interface (CLI) 0:00
 [x] 21. Cloud Foundry Environment Variables 15:33
 [x] Quiz 8: Cloud foundry environment variables 0:00
-[ ] 22. Developing Bluemix no-route or Background application 6:06
-[ ] Quiz 9: Worker applications 0:00
+[x] 22. Developing Bluemix no-route or Background application 6:06
+[x] Quiz 9: Worker applications 0:00
 
 Section: 5
 Bluemix Managed Services
