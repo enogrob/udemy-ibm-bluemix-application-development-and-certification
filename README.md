@@ -58,8 +58,8 @@ Bluemix PaaS Architecture
 
 Section: 5
 Bluemix Managed Services
-[ ] 23. Bluemix Managed Services for Applications 17:24
-[ ] Quiz 10: Bluemix Managed Services 0:00
+[x] 23. Bluemix Managed Services for Applications 17:24
+[x] Quiz 10: Bluemix Managed Services 0:00
 [ ] 24. User provided services and VCAP_SERVICES 13:45
 [ ] Quiz 11: VCAP_SERVICES & User provided services 0:00
 
