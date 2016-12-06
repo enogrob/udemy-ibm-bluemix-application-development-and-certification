@@ -60,11 +60,11 @@ Section: 5
 Bluemix Managed Services
 [x] 23. Bluemix Managed Services for Applications 17:24
 [x] Quiz 10: Bluemix Managed Services 0:00
-[ ] 24. User provided services and VCAP_SERVICES 13:45
-[ ] Quiz 11: VCAP_SERVICES & User provided services 0:00
+[x] 24. User provided services and VCAP_SERVICES 13:45
+[x] Quiz 11: VCAP_SERVICES & User provided services 0:00
 
 Section: 6
-[ ] 12 Factor Apps
+Factor Apps
 [ ] 25. Introduction to 12 factor App 7:02
 [ ] 26. Factors #1-4, Codebase, Dependencies, Configuration, Backing services 6:38
 [ ] Quiz 12: 12 factors app 0:00
@@ -74,9 +74,9 @@ Section: 6
 [ ] Quiz 14: 12 factors app (Factor# 9 to 12) 0:00
 
 Section: 7
-[ ] Developing and Managing applications on Bluemix PaaS
-[ ] 29. Bluemix Application Debugging 4:18
-[ ] 30. Application scaling on Bluemix PaaS 19:47
+Developing and Managing applications on Bluemix PaaS
+[x] 29. Bluemix Application Debugging 4:18
+[x] 30. Application scaling on Bluemix PaaS 19:47
 [ ] Quiz 15: Application debugging & Scaling 0:00
 [ ] 31. Integrating with External Logging 10:28
 [ ] 32. Application performance testing 16:03
