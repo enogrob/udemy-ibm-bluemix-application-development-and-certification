@@ -65,11 +65,11 @@ Bluemix Managed Services
 
 Section: 6
 Factor Apps
-[ ] 25. Introduction to 12 factor App 7:02
-[ ] 26. Factors #1-4, Codebase, Dependencies, Configuration, Backing services 6:38
-[ ] Quiz 12: 12 factors app 0:00
-[ ] 27. Factors #5-8, Build & Run, Stateless Processes, Port Binding, Concurrency 8:35
-[ ] Quiz 13: 12 factors app (Factor# 5 to 8) 0:00
+[x] 25. Introduction to 12 factor App 7:02
+[x] 26. Factors #1-4, Codebase, Dependencies, Configuration, Backing services 6:38
+[x] Quiz 12: 12 factors app 0:00
+[x] 27. Factors #5-8, Build & Run, Stateless Processes, Port Binding, Concurrency 8:35
+[x] Quiz 13: 12 factors app (Factor# 5 to 8) 0:00
 [ ] 28. Factors #9-12, Disposability, Dev/Prod Parity, Logs, Admin Processes 7:24
 [ ] Quiz 14: 12 factors app (Factor# 9 to 12) 0:00
 
