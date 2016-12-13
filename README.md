@@ -70,8 +70,8 @@ Factor Apps
 [x] Quiz 12: 12 factors app 0:00
 [x] 27. Factors #5-8, Build & Run, Stateless Processes, Port Binding, Concurrency 8:35
 [x] Quiz 13: 12 factors app (Factor# 5 to 8) 0:00
-[ ] 28. Factors #9-12, Disposability, Dev/Prod Parity, Logs, Admin Processes 7:24
-[ ] Quiz 14: 12 factors app (Factor# 9 to 12) 0:00
+[x] 28. Factors #9-12, Disposability, Dev/Prod Parity, Logs, Admin Processes 7:24
+[x] Quiz 14: 12 factors app (Factor# 9 to 12) 0:00
 
 Section: 7
 Developing and Managing applications on Bluemix PaaS
