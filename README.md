@@ -81,8 +81,8 @@ Developing and Managing applications on Bluemix PaaS
 [x] 31. Integrating with External Logging 10:28
 [x] 32. Application performance testing 16:03
 [x] 33. Load Impact Performance Testing Walkthrough 3:16
-[ ] 34. Application Monitoring 19:38
-[ ] Quiz 16: Logging, Testing and Monitoring 0:00
+[x] 34. Application Monitoring 19:38
+[x] Quiz 16: Logging, Testing and Monitoring 0:00
 
 Section: 8
 Bluemix Managed Services - Caching & Object Storage
