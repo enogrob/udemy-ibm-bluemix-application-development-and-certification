@@ -86,8 +86,8 @@ Developing and Managing applications on Bluemix PaaS
 
 Section: 8
 Bluemix Managed Services - Caching & Object Storage
-[ ] 35. Bluemix Data & Session Caching Services 18:58
-[ ] Quiz 17: Caching Services 0:00
+[x] 35. Bluemix Data & Session Caching Services 18:58
+[x] Quiz 17: Caching Services 0:00
 [ ] 36. Services - Object Storage 15:42
 [ ] Quiz 18: Object storage services 0:00
 
